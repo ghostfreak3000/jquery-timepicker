@@ -12,5 +12,6 @@
 		"name" : "Jon Thornton",
 		"web"  : "https://github.com/jonthornton"
     },
-    "license": "http://opensource.org/licenses/MIT"
+    "license": "http://opensource.org/licenses/MIT",
+    "ignore": ["*","**/**","!/*timepicker.css","!/*timepicker.js","!/*timepicker.min.js"]
 }
